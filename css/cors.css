@@ -5,12 +5,11 @@
   padding: 8vw;
 }
 #blog-container .blogs{
-  width: 60%;
+  width: 60%;}
 
-  #blog-container .blogs img{
-    width: 60%;
-  }
-  
+ #blog-container .blogs img{
+    width: 100%;
+  border-radius: 10px;
 }
 #blog-container .category{
   width: 30%;
