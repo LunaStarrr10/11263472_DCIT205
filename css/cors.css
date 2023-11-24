@@ -1,0 +1,17 @@
+#blog-container{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8vw;
+}
+#blog-container .blogs{
+  width: 60%;
+
+  #blog-container .blogs img{
+    width: 60%;
+  }
+  
+}
+#blog-container .category{
+  width: 30%;
+}
