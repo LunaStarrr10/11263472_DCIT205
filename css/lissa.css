@@ -1,4 +1,9 @@
-/*-----features----*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}/*-----features----*/
 #features {
   padding: 5vw 5vw 0 5vw;
   text-align: center;
