@@ -3,6 +3,7 @@
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
+
 /*---blog---*/
 
 #blog-container {
@@ -81,18 +82,22 @@
   align-items: flex-start;
   padding: 8vw;
 }
-#course-inner h3{
+
+#course-inner h3 {
   padding: 35px 0 2px 0;
   color: #29303b;
 }
-#course-inner p{
+
+#course-inner p {
   color: #64626e;
 }
-#course-inner hr{
+
+#course-inner hr {
   height: 1px;
   background: rgba(236, 226, 229, 0.5);
   margin-top: 40px;
 }
+
 #course-inner .overview {
   width: 70%;
 }
@@ -141,64 +146,205 @@
   font-weight: 700;
   background-color: rgba(88, 56, 252, 0.1);
 }
-#course-inner .learn p{
-font-size: 15px;
-padding-bottom: 15px;
-}
-#course-inner .learn p i{
-color: #654ce4;
-font-weight: 700;
-margin-right: 20px;
-}
-#course-inner .tutor{
-  display: flex;
-}
-#course-inner .tutor img{
-width: 70px;
-height: 70px;
-border-radius: 50%;
-margin-right: 20px;
-}
-#course-inner .tutor h5{
+
+#course-inner .learn p {
   font-size: 15px;
-}
-#course-inner .enroll {
-width: 255px;
-height:fit-content;
-padding: 0 10px 10px 10px;
-border-radius: 11px;
-box-shadow: 0px 20px 40px 0 rgb(11 2 55 / 8% );
+  padding-bottom: 15px;
 }
 
-#course-inner .enroll h3{
+#course-inner .learn p i {
+  color: #654ce4;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+#course-inner .tutor {
+  display: flex;
+}
+
+#course-inner .tutor img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+#course-inner .tutor h5 {
+  font-size: 15px;
+}
+
+#course-inner .enroll {
+  width: 255px;
+  height: fit-content;
+  padding: 0 10px 10px 10px;
+  border-radius: 11px;
+  box-shadow: 0px 20px 40px 0 rgb(11 2 55 / 8%);
+}
+
+#course-inner .enroll h3 {
   padding-bottom: 10px;
 }
 
-#course-inner .enroll p{
+#course-inner .enroll p {
   font-size: 15px;
   color: #64626e;
   margin: 2px 0;
+}
+
+#course-inner .enroll p i {
+  color: #271e59;
+  margin-right: 20px;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  text-align: center;
+}
+
+#course-inner .enroll-btn {
+  padding: 25px 0 20px 0;
+  margin: auto;
+  text-align: center;
+}
+
+#course-inner .enroll-btn a {
+  text-decoration: none;
+  font-size: .8rem;
+  padding: 13px 45px;
+  border-radius: 5px;
+  font-weight: 600;
+  color: #fff;
+  background-color: rgb(42, 42, 95);
+}
+
+/*---contact--*/
+#contact {
+  padding: 8vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+#contact .getin {
+  width: 350px;
+}
+
+#contact .getin h2 {
+  color: #1f1932;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: .8;
+  margin-bottom: 16px;
+}
+
+#contact .getin p {
+  color: #58536b;
+  line-height: 24px;
+  margin-bottom: 33px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #c7c1f3;
+}
+
+#contact .getin h3 {
+  color: #1f1932;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 15px;
+  margin-right: 15rem;
+}
+#contact .getin .getin-details div{
+display: flex;
+}
+#contact .getin .getin-details div .get{
+font-size: 16px;
+line-height: 40px;
+color: #282048;
+margin-right: 20px;
+}
+#contact .getin .getin-details div p{
+  font-size: 14px;
+  border-bottom: none;
+  line-height: 22px;
+  margin-bottom: 15px;
+}
+
+#contact .getin .getin-details .pro-links{
+  margin-right: 8px;
+}
+#contact .pro-links {
+  display: inline-block; /* Ensure the box wraps around the content */
+  border: 1px solid #ccc; /* Add a border around the box */
+  padding: 10px; /* Adjust padding as needed */
+}
+
+#contact .pro-links .icon {
+  font-size: 24px; /* Adjust the size of your icon */
+}
+#contact .form{
+  width: 50%;
+  background: #f7f6fa;
+  padding: 50px;
+  border-radius: 10px;
+}
+#contact .form h4{
+font-size: 24px;
+color: #2c234d;
+line-height: 30px;
+margin-bottom: 8px;
+}
+#contact .form p{
+  color: #686875;
+  background: #f7f6fa;
+  padding-bottom: 25px;
+ line-height: 24px;
+}
+#contact .form .form-row{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+#contact .form .form-row input{
+width: 35%;
+font-size: 14px;
+font-weight: 300;
+border-radius: 3px;
+border: none;
+background: #fff;
+color: #7e7c87;
+outline: none;
+padding: 20px 30px;
+margin-bottom: 20px;
+}
+#contact .form .form-col input,
+#contact .form .form-col textarea {
+  width: 80%;
+  font-size: 14px;
+  font-weight: 300;
+  border-radius: 3px;
+  border: none;
+  background: #fff;
+  color: #7e7c87;
+  outline: none;
+  padding: 20px 30px;
+  margin-bottom: 20px;
   }
- 
-  #course-inner .enroll p i {
-    color: #271e59;
-    margin-right: 20px;
-    width: 16px;
-    height: 16px;
-    line-height: 16px;
-    text-align: center;
-    }
-    #course-inner .enroll-btn {
-      padding: 25px 0 20px 0;
-      margin: auto;
-      text-align: center;
-    }
-    #course-inner .enroll-btn a{
-text-decoration: none;
-font-size: .8rem;
-padding: 13px 45px;
-border-radius: 5px;
-font-weight: 600;
-color: #fff;
-background-color: rgb(42, 42, 95);
-    }
+  #contact .form button{
+    font-size: .9rem;
+    padding: 13px 25px;
+    background: rgb(21, 21, 100);
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    color: #fff;
+  }
+  #map{
+    width: 100%;
+    height: 70vh;
+    margin-bottom: 2vh;
+  }
+  #map iframe{
+    width: 100%;
+    height: 100%;
+  }
