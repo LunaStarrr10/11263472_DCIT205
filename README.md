@@ -17,10 +17,9 @@ The next image is saved as post.html, which can be found by clicking the readmor
 ![Web capture_7](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/43406e87-1672-41ca-80ac-901af35c245d)
 
 ![Web capture_8](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/3d261e5f-500f-49a0-89d5-f0d346485d86)
+![Web capture_9](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/8d7a595d-63ee-42f0-8ebc-352449e66117)
 
-![Web capture_9](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/13b1632f-82ac-4b1e-800c-a 7ed28c4142a)
-click this link in the homepage to open the programmes page."Discover what we have to offer by coming to visit us for additional
-          information."
+click this link in the homepage to open the programmes page."Discover what we have to offer by coming to visit us for additional information."
 ![Web capture_10a](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/36e9a43b-0a0b-4d30-9307-4ff764a3afa0)
 ![Web capture_10b](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/94be187b-8885-4034-8581-c8aa7e9d90a1)
 
