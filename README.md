@@ -27,7 +27,7 @@ click this link in the homepage to open the programmes page."Discover what we ha
 ![Web capture_10a](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/36e9a43b-0a0b-4d30-9307-4ff764a3afa0)
 ![Web capture_10b](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/94be187b-8885-4034-8581-c8aa7e9d90a1)
 
-I learnt the new features of html5 and css3 while watching Youtube videos to build this website. This includes <hr> which draws a line under a line of code. Cloning a website, properties of Github and git bash are also new technologies i tried my hands on. Finally i learnt how to use vscode terminal to make commits, check a status and add changes to a repository which are crucial in this age of technology because of the collaboration features Github provides.
+I learnt the new features of html5 and css3 while watching Youtube videos to build this website. This includes the (hr) element, which draws a line under a line of code. Cloning a website, properties of Github and git bash are also new technologies i tried my hands on. Finally i learnt how to use vscode terminal to make commits, check a status and add changes to a repository which are crucial in this age of technology because of the collaboration features Github provides.
 
 
 
