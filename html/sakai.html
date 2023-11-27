@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="En">
+  <head>
+    <meta charset="utf-8" />
+    <title>Login Required - Sakai</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/tool.css" type="text/css" rel="stylesheet" media="all" />
+    <link rel="stylesheet" href="/css/sakai.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap" rel="stylesheet">
+  </head>
+  <body class="portalBody Mrphs-portalBody">
+    <header class="header">
+      <form
+      id="Mrphs-xlogin"
+      method="post"
+      action="https://sakai.ug.edu.gh/portal/relogin"
+    >
+      <h1>Login Required</h1>
+      <hr>
+      <img class="saks" src="/images/cs logo.png" alt>
+      <aside class="logo"></aside>
+      <fieldset>
+        <label for="eid">User id</label>
+        <input
+          name="eid"
+          id="eid"
+          value=""
+          type="text"
+          autocomplete="username"
+          size="15"
+        />
+        <label for="pw">Password</label>
+        <input
+          name="pw"
+          id="pw"
+          value=""
+          type="password"
+          autocomplete="current-password"
+          onfocus="this.passwordfocus = true; "
+          size="15"
+        />
+        <p class="buttons">
+          <input name="submit" type="submit" id="submit" value="Log in" />
+        </p>
+        <p>
+          <a
+            href="https://sakai.ug.edu.gh/portal/site/!gateway/page/!gateway-800"
+            >Forgot your password?</a
+          >
+        </p>
+      </fieldset>
+    </form>
+    </header>
+
+  </body>
+</html>
