@@ -1,6 +1,7 @@
 Welcome to my CS Department website, where you can find a detailed description of all of our courses. Our curriculum emphasizes project-driven learning with the focus on real-world examples, covering fundamental subjects including object-oriented programming, variables, functions, objects, and arrays. Join me as we pave the way for transformation.
 
 I used internet resources such as YouTube videos and other university webpages as building blocks for my website. Git terminal in vscode allowed me to update my main repository.
+
  NAME:MELISSA OTOO
  ID: 11263472
 
@@ -12,9 +13,10 @@ I used internet resources such as YouTube videos and other university webpages a
 The next image is saved as innercourse.html, which can be found by clicking the first picture in the COURSE page.
 ![Web capture_5b](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/de6ba33b-0239-43e8-9369-c78038f3a3a5)
 
-![Web capture_6a](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/9078c8a9-91b2-44e9-8d51-8aa3ab59c421)
-The next image is saved as post.html, which can be found by clicking the readmore link below the first blog  in the BLOG page. 
+![Web capture_6a](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/9078c8a9-91b2-44e9-8d51-8aa3ab59c421) 
 ![Web capture_6b](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/d9c0bc20-355e-46b4-911d-5dd8939ad976)
+The next image is saved as post.html, which can be found by clicking the readmore link below the first blog  in the BLOG page
+![Web capture_11](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/c181bc1a-4dd2-4bff-8aaf-56e051351bec)
 
 ![Web capture_7](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/43406e87-1672-41ca-80ac-901af35c245d)
 
