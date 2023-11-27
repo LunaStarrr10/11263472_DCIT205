@@ -29,6 +29,7 @@
   padding: 13px 0 7px 0;
 }
 
+
 #features .feat-box p {
   font-size: 1rem;
   font-weight: 400;
@@ -38,13 +39,18 @@
 #features {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 25px; /* Adjust the gap between items as needed */
+  gap: 1rem; /* Adjust the gap between items as needed */
   text-align: center; /* Center-align content within each grid item */
+  margin-bottom: 10px;
 }
 
 .feat-base {
   background-color: #f0f0f0; /* Add background color to each grid item */
   padding: 20px; /* Add padding to each grid item */
+}
+#features h1{
+  position: relative;
+  margin-left: 290px;
 }
 
 /* Style for icon */
@@ -52,6 +58,7 @@
   font-size: 24px;
   margin-bottom: 10px;
   position: center;
+  align-items: center;
 }
 
 /* Style for heading and paragraph */

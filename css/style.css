@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family:  'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 nav {
@@ -10,8 +10,7 @@ nav {
   padding: 1vw 8vw;
   justify-content: space-between;
   align-items: center;
-
-
+  background: #162548;
 }
 
 .header {
@@ -39,13 +38,13 @@ nav img {
 .nav-links ul li {
   list-style: none;
   display: inline-block;
-  padding: 8px 12px;
+  padding: 2px 12px;
   position: relative;
 
 }
 
 .nav-links ul li a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
   font-size: 15px;
   transition: 0.3s ease;
@@ -253,18 +252,18 @@ h3 {
 
 /*----- call to action----*/
 .cta {
-  margin: 100px auto;
-  width: 80%;
-  background-image: linear-gradient(rgba(244, 244, 249, 0), rgba(244, 244, 249, 0)), url(/images/saw.jpg);
+  margin:20px auto;
+  width: 60%;
+  background-image: linear-gradient(rgba(244, 244, 249, 0), rgba(244, 244, 249, 0)), url(/images/xman.png);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
   text-align: center;
-  padding: 100px 0;
+  padding: 90px 0;
 }
 
 .cta h1 {
-  color: #000;
+  color: #fff;
   margin-bottom: 40px;
   padding: 0;
 }
@@ -320,3 +319,13 @@ h3 {
 .red-btn:hover {
   color: #fff;
 }
+.icons i{
+  display: inline-block;
+  color: #000;
+  font-size: 20px;
+  margin: 0 8px;
+  transition: all .38s ease;
+  }
+  .icons i:hover{
+    transform: scale(1.2);
+  }

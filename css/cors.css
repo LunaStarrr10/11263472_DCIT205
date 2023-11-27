@@ -267,19 +267,17 @@ margin-right: 20px;
   line-height: 22px;
   margin-bottom: 15px;
 }
+.pro-links{
+  margin-top: 1px;
+}
+.pro-links i{
+  padding: 10px 13px;
+  cursor: pointer;
+  border: 1px solid #58536b; 
+  margin-right: 2px;
+  float: left;
+}
 
-#contact .getin .getin-details .pro-links{
-  margin-right: 8px;
-}
-#contact .pro-links {
-  display: inline-block; /* Ensure the box wraps around the content */
-  border: 1px solid #ccc; /* Add a border around the box */
-  padding: 10px; /* Adjust padding as needed */
-}
-
-#contact .pro-links .icon {
-  font-size: 24px; /* Adjust the size of your icon */
-}
 #contact .form{
   width: 50%;
   background: #f7f6fa;
@@ -348,3 +346,7 @@ margin-bottom: 20px;
     width: 100%;
     height: 100%;
   }
+
+
+  
+
