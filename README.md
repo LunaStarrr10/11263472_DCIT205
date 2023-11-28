@@ -12,8 +12,8 @@ Welcome to my CS Department website, where you can find a detailed description o
 <p>Open your browser: Visit http://localhost:3000 to view the project.</p>
 
 <h2>My Details</h2>
-<p> NAME:MELISSA OTOO</p>
- <p>ID: 11263472</p>
+<p> NAME: Melissa Otoo</p>
+ <p> ID: 11263472</p>
 
 ![Web capture_1 original](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/34e236a6-a615-4306-986a-fb5184998c56)
 ![Web capture_2 original](https://github.com/LunaStarrr10/11263472_DCIT205/assets/124188093/4a8e7147-4cab-4dbf-9fde-6e3d6452ba02)
